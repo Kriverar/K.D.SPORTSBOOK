@@ -1,0 +1,3 @@
+﻿  K.D.Sportsbook.cpp
+C:\Users\kriss\source\repos\K.D.Sportsbook\K.D.Sportsbook.cpp(84,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  K.D.Sportsbook.vcxproj -> C:\Users\kriss\source\repos\K.D.Sportsbook\x64\Debug\K.D.Sportsbook.exe
